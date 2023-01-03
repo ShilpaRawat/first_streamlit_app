@@ -1,2 +1,3 @@
+import streamlit
 
-print('My first streamlit file')
+streamlit.title('My first streamlit file')
